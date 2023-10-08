@@ -1,0 +1,18 @@
+class phone
+{
+	
+		static String Pbrand = "samsung";
+		static String Pprice = "10000";
+		static String Pos =  "ios";
+		static double Pcamera = 7.5;
+
+public static void main(String[] args) 
+	{
+
+        System.out.println("brand =" +Pbrand);
+		System.out.println("price =" +Pprice);
+		System.out.println("os =" +Pos);
+		System.out.println("camera =" +Pcamera);
+	}
+}
+  

@@ -1,0 +1,16 @@
+public class alok{
+	String gfname="sheela";
+	int age=55;
+	public void marry();
+	{
+		System.out.println("alok marries sheela");
+	}}
+public class nithin{
+
+public static void main(String[] args){
+	alok a=new alok();
+	System.out.println(a.age);
+	System.out.println(a.gfname);
+	a.marry();
+}
+}

@@ -1,0 +1,10 @@
+class Example  
+{
+	public static void main(String[] args) 
+	{ 
+        System.out.println("alok");
+		System.out.println("2017");
+		System.out.println("70%");
+	}
+}
+  
