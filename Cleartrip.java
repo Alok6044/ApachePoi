@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Cleartrip {
-//this is selenium program
+//this is selenium program ,we want to change it
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
