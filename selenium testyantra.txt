@@ -1,0 +1,75 @@
+Selenium miscellaneous interview question
+111.	Difference between Xpath & CSS-selector
+112.	Where we have used contractor in selenium
+113.	How to execute Java-scripts in Selenium , or how to work with browser scroll bar 
+114.	How to handle SSL popup in IE
+117.	Non automatable test case in your Project
+
+Selenium Normal interview question
+//Selenium basic question 
+118.	Explain the Selenium Architecture
+119.	Difference between Selenium-IDE & Selenium RC , WebDriver
+120.	Difference between 
+121.	Difference between get(), navigate().to()
+122.	What is API , where it is being used
+123.	Difference between quit() & close()
+124.	How to maximixe & minimize the browser
+125.	What is WEbdriver “interface” or Class
+126.	What is Super interface for WebDriver
+127.	What is WebElement & explain all the Mtds available in WebElement
+128.	How many locator is available in Webdriver , & which locator is preferred
+129.	How to check whether object is available in GUI  
+130.	How to check the text from the UI
+131.	How to capture color , height , width , font –size of the Element
+132.	How to get the Location of the Webelement
+133.	How to check whether object is selected or not ?
+134.	How to check whether object is enabled in GUI
+135.	How to delete All Cookies
+136.	Do we use any constructor in webdriver 
+137.	How to compare Image 
+138.	How to get the webelemnt height & width
+Question on WebDriver wait statement  
+139.	What is Synchronization
+140.	How to handle Synchronization wait  available in Webdriver
+141.	Which wait statement will be used to wait till page load
+142.	How to handle dynamic object
+143.	Difference between thread wait , implicitly wait , explicitly wait
+144.	 What is fluent wait
+Question DropDown &  keyboard & mouse operation
+145.	How to handle dropdown
+146.	List out all mtds available in Select class
+147.	How to capture all the value from the dropdown
+148.	How to capture only Selected value from the dropdown
+149.	How to capture only non-selected value from the dropdown
+150.	How to how with multiSelect value from the dropdown
+151.	How to select all the similar value from the dropdown
+152.	How to work with custom select dropdown/ auto suggest dropDown
+153.	How to take mouse over operation on the element
+154.	How to perform keyboard operation
+155.	How to perform “control+c”
+156.	Difference between build() & perform()
+157.	How to perform drogAndDrop Operation
+158.	How to perform rightClick operation
+Question on Window Handling
+159.	How to work with new Tab, new Browse-window
+160.	How to work with new Tab, new Browse-window with our GetWindowHAnles() mtd
+161.	How to handle Alert popup
+162.	How to work Calender POP-up
+163.	How to work with advitiseMent popup
+164.	How to work with SSL pop-up
+165.	How to File Download PopUP
+166.	How to handle File Upload Pop-up using AutoIT
+167.	How to Handle File Uplaod Pop-up usinh ROBOT class
+168.	How to Handle Browser Scrool-bar
+169.	How to execute java-script
+Question Frame Handle
+170.	How to work with frame-Window
+171.	How to Work with nested Frame
+172.	How to work with multiple frame
+173.	How many ways to work with frame
+174.	How to work frame , when frame does not have id & @name attribute
+
+Question on Multiple Browser
+175.	What is IllegalState Exception
+176.	How to work with IE , Chrome browser
+177.	How to write xpath in IE & chrome browser
