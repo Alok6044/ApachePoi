@@ -1,4 +1,3 @@
-//this is alok ranjan
 package himanshu.in;
 public class car{
      String model="tesla";
